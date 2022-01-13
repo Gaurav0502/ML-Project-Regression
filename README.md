@@ -2,29 +2,17 @@
 This should be a brief description of the domain of your dataset (e.g. if it is the Titanic Dataset then write about the ship, the incident that happened, what you're trying to do with the data).
 ## Dataset
 
-The dataset used is the [Name of the Dataset](Download link) from (source of download e.g Kaggle). If the task is a classification task, then you must specify the number of classes and give a 1 line description of each class as follows(example of Iris Dataset). 
+Chosen Dataset : Crab Age Predication Dataset (https://www.kaggle.com/sidhus/crab-age-prediction)
 
-The 3 class labels are:
-<br>
+Task : Use Regression to estimate the Crab Age.
 
-**1. Iris Setosa:** Given iris flower belongs to the Setosa species
-<br>
-**2. Iris Virginica:** Given iris flower belongs to the Virginica species
-<br>
-**3. Iris Versicolor:** Given iris flower belongs to the Versicolor species
+Target Variable : Age
 
-If the task is a regression task, then explain the target variable and give brief statistics.(e.g. Housing Prices)
+Minimum Age = 1
 
-**Target Variable: SalePrice**
-<br>
-<br>
-Sale Price refers to the selling price of the house.
-<br>
-**Mean Selling Price:** 121,000$
-<br>
-**Max Selling Price:** 1,000,000$
-<br>
-**Min Selling Price:** 45,000$
+Maximum Age = 29
+
+Average Age = 9.95479065
 
 
 ## Model(s) Used
